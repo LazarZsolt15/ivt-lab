@@ -88,7 +88,7 @@ public class GT4500 implements SpaceShip {
         firingSuccess = primaryFired || secondaryFired;
         break;
     }
-    //Branch-A szerkesztés
+    
     return firingSuccess;
   }
 
